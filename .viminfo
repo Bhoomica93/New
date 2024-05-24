@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1716545899,,"wq!"
+|2,0,1716546089,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,31 @@
 # Registers:
 
 # File marks:
-'0  5  0  ~/samplecode.java
-|4,48,5,0,1716545899,"~/samplecode.java"
+'0  3  46  ~/samplecode.java
+|4,48,3,46,1716546089,"~/samplecode.java"
+'1  5  0  ~/samplecode.java
+|4,49,5,0,1716545899,"~/samplecode.java"
+'2  5  0  ~/samplecode.java
+|4,50,5,0,1716545899,"~/samplecode.java"
 
 # Jumplist (newest first):
+-'  3  46  ~/samplecode.java
+|4,39,3,46,1716546089,"~/samplecode.java"
+-'  5  0  ~/samplecode.java
+|4,39,5,0,1716546061,"~/samplecode.java"
 -'  5  0  ~/samplecode.java
 |4,39,5,0,1716545899,"~/samplecode.java"
+-'  1  0  ~/samplecode.java
+|4,39,1,0,1716545891,"~/samplecode.java"
 -'  1  0  ~/samplecode.java
 |4,39,1,0,1716545891,"~/samplecode.java"
 
 # History of marks within files (newest to oldest):
 
 > ~/samplecode.java
-	*	1716545896	0
-	"	5	0
-	^	5	1
-	.	5	0
+	*	1716546085	0
+	"	3	46
+	^	3	47
+	.	3	46
 	+	5	0
+	+	3	46
